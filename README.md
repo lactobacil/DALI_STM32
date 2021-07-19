@@ -3,7 +3,7 @@ Embedded Design for DALI Lighting Controller
 
 
 # Description
-Final Year Project completion, adding DALI Interfaces to create a bare minimum lighting control method, operable with GUI in PYTHON and serial connection. First PCB iteration is to create a minimum STM-32 Board before proceeding to implement DALI controller. 
+Final Year Project completion, adding DALI Interfaces to create a bare minimum lighting control method, operable with GUI in Python and serial connection. First PCB iteration is to create a minimum STM-32 Board before proceeding to implement DALI controller. 
 
 
 #Schematic
