@@ -1,6 +1,9 @@
 # DALI_STM32
 Embedded Design for DALI Lighting Controller
 
+![image](https://user-images.githubusercontent.com/72569245/126105830-3b6e2b65-25d2-492a-b03d-1e28ef0800f1.png)
+
+
 
 # Description
 Final Year Project completion, adding DALI Interfaces to create a bare minimum lighting control method, operable with GUI in Python and serial connection. First PCB iteration is to create a minimum STM-32 Board before proceeding to implement DALI controller. 
